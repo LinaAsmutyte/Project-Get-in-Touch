@@ -1,0 +1,72 @@
+body {
+    background: #d4e5ff ;
+}
+.table {
+    background-color: #fdfeff;
+    max-width: fit-content;
+    padding: 30px;
+    margin: 0 auto;
+    border-radius: 20px;
+}
+h1 {
+    font-size: 30px;
+    font-family: Lucida Sans Unicode;
+    color: #263ef4;
+    margin: 10px 5px 20px 15px;
+}
+.div1 {
+    font-size: 15px;
+    font-family: Lucida Sans Unicode;
+    background-color: #e7e9fe;
+    border-radius: 5px;
+    border: none;
+    margin: 10px 5px 20px 15px;
+    
+} 
+.div2 {
+    font-size: 15px;
+    font-family: Lucida Sans Unicode;
+    background-color: #dce1ff;
+    border-radius: 5px;
+    border: none;
+    margin: 10px 5px 20px 15px;
+}
+.div3 {
+    font-size: 15px;
+    font-family: Lucida Sans Unicode;
+    background-color: #c7cdfd;
+    border-radius: 5px;
+    border: none;
+    margin: 10px 5px 20px 15px;
+}
+.div4 {
+    font-size: 15px;
+    font-family: Lucida Sans Unicode;
+    background-color: #c7cdfd;
+    border-radius: 5px;
+    border: none;
+    margin: 10px 5px 20px 15px;
+}
+::placeholder {
+    color: #263ef4;
+}
+button {
+    font-size: 15px;
+    font-family: Lucida Sans Unicode;
+    background-color: #233bf5;
+    color: #ededf5;
+    padding: 10px 25px;
+    border-radius: 20px;
+    border: none;
+}
+.button {
+    text-align: center;
+
+}
+p {
+    font-size: 15px;
+    font-family: Lucida Sans Unicode;
+    color: #55dbb9;
+}
+
+
